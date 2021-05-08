@@ -1,0 +1,11 @@
+{
+  "uyarmaSınırı": "4",
+  "banlamaSınırı": "7",
+  "aralık": "1000",
+  "uyarmaMesajı": "Spamı Durdur Yoksa Mutelerim.",
+  "muteMesajı": "Spam için yasaklandı, başka biri var mı?",
+  "maxSpamUyarı": "8",
+  "maxSpamBan": "12",
+  "zaman": "7",
+  "rolİsimi": "spam-susturulmuş"
+}
